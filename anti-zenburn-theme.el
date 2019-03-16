@@ -35,7 +35,7 @@
       (azenburn-bg-2 "#FFFFFF")
       (azenburn-bg-1 "#d4d4d4")
       (azenburn-bg-05 "#c7c7c7")
-      (azenburn-bg "#c0c0c0")
+      (azenburn-bg "#F0FFF0")
       (azenburn-bg+05 "#b6b6b6")
       (azenburn-bg+1 "#b0b0b0")
       (azenburn-bg+2 "#a0a0a0")
